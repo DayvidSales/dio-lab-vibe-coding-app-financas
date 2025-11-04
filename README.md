@@ -22,7 +22,7 @@ Precisamos de uma solução que permita **controlar as finanças por meio de uma
 ### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
 
 Antes de pedir à IA para “criar um app”, é essencial **definir claramente o que você quer**.  
-Para isso, use uma versão simplificada de um **PRD (Product Requirements Document)** — um documento que explica *o que o produto faz, para quem e por quê.*
+Para isso, use uma versão simplificada de um **PRD (Product Requirements Document)**, um documento que explica *o que o produto faz, para quem e por quê.*
 
 **Crie um PRD simples respondendo:**
 1. Qual é o problema que quero resolver?  
